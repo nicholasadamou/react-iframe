@@ -22,7 +22,7 @@ import Iframe from "@nicholasadamou/react-iframe";
 const token = localStorage.getItem("token") || new Cookies().get("token");
 
 <Iframe
-	src=""
+	src="/chatbot?mode=embedded"
 	headers={{
 		Authorization: `Bearer ${token}`,
 		type: "text/html",

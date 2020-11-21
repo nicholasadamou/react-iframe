@@ -1,6 +1,6 @@
 # React iFrame [![Build Status](https://travis-ci.org/nicholasadamou/react-iframe.svg?branch=master)](https://travis-ci.org/nicholasadamou/react-iframe)
 
-_Have you ever needed to add headers to a iframe? You've come to the right place!_
+_Have you ever needed to add headers to an iframe? You've come to the right place!_
 
 ## Getting Started
 

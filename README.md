@@ -1,4 +1,4 @@
-# React iFrame [![Build Status](https://travis-ci.org/nicholasadamou/react-iframe.svg?branch=master)](https://travis-ci.org/nicholasadamou/react-iframe)
+# React iFrame
 
 _Have you ever needed to add headers to an iframe? You've come to the right place!_
 
@@ -8,25 +8,23 @@ React iFrame is a simple react component that lets you add headers to an iframe.
 
 ## Installation
 
-You can download the package using `npm` with:
-
-`npm install @nicholasadamou/react-iframe --save`
+Copy the contents of [Iframe.js](Iframe.js) or download the file and place it into your project's components directory.
 
 ## Usage (Simple)
 
 To use, simply import the component and specify your `src` and `headers`:
 
 ```js
-import Iframe from "@nicholasadamou/react-iframe";
+import Iframe from "@components/Iframe"; // Assuming 'Iframe.js' is in your components directory.
 
 const token = localStorage.getItem("token") || new Cookies().get("token");
 
 <Iframe
-	src="/chatbot?mode=embedded"
-	headers={{
-		Authorization: `Bearer ${token}`,
-		type: "text/html",
-	}}
+ src="/chatbot?mode=embedded"
+ headers={{
+  Authorization: `Bearer ${token}`,
+  type: "text/html",
+ }}
 />;
 ```
 

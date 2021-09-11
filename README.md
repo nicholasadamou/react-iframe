@@ -8,7 +8,7 @@ React iFrame is a simple react component that lets you add headers to an iframe.
 
 ## Installation
 
-Copy the contents of [Iframe.js](Iframe.js) or download the file and place it into your project's components directory.
+Download [the file](Iframe.js) and place it into your project's components directory structure.
 
 ## Usage (Simple)
 

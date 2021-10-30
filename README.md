@@ -1,4 +1,4 @@
-# React iFrame [![NPM](https://img.shields.io/npm/v/react-iframe.svg)](https://www.npmjs.com/package/react-iframe) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Build Status](https://travis-ci.org/nicholasadamou/react-iframe.svg?branch=master)](https://travis-ci.org/nicholasadamou/react-iframe)
+# React iFrame [![CircleCI Status](https://circleci.com/gh/nicholasadamou/react-iframe.svg?style=svg)](https://circleci.com/gh/nicholasadamou/react-iframe) [![NPM](https://img.shields.io/npm/v/react-iframe.svg)](https://www.npmjs.com/package/react-iframe) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 _Have you ever needed to add headers to an iframe? You've come to the right place!_
 

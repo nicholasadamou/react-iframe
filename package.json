@@ -1,6 +1,6 @@
 {
   "name": "@nicholasadamou/react-iframe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple react component that lets you add headers to an iframe.",
   "author": {
     "name": "Nicholas Adamou",

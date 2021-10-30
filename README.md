@@ -6,11 +6,11 @@ _Have you ever needed to add headers to an iframe? You've come to the right plac
 
 React iFrame is a simple react component that lets you add headers to an iframe. It's super light-weight and requires no external dependencies!
 
-No dependencies!
+**No dependencies!**
 
-Much 🔥!
+**Much 🔥!**
 
-Only ~700b!
+**Only ~700b!**
 
 ## Installation
 
